@@ -2,7 +2,7 @@
 This repo will have content of commands to install service and how to setup them in relative server
 
 **How to host dotnet core api on ubuntu**
- Stages :
+Stages :
   1. Install SQL Server and create a database on Ubuntu.
   2. Create a login,user in sql server and give permission.
   3. Install the .NET SDK or the .NET Runtime on Ubuntu
